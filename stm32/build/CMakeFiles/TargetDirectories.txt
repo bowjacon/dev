@@ -1,0 +1,3 @@
+/workspaces/dev/stm32/build/CMakeFiles/rebuild_cache.dir
+/workspaces/dev/stm32/build/CMakeFiles/edit_cache.dir
+/workspaces/dev/stm32/build/CMakeFiles/STM32.elf.dir
